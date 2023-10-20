@@ -6,14 +6,13 @@ Seguir referências do Figma: https://www.figma.com/file/bpc8KjV11BWIEEnRrOpBQd/
 
 Na tela Home:
 - Criar um Header do qual o usuário vai poder filtrar por Categorias
-- Criar um Carrossel das notícias mais lidas da semana
 - Banner principal e coluna lateral, Exibindo as noticias mais recentes
 
 Em um card de Notícia: 
 - Exibir a foto de capa da Notícia
 - Exibir a data em que a Notícia foi publicada
 - Exibir o título da Notícia
-- Ao clicar na Notícia, o usuário deve ser redirecionado para a página original da Notícia
+- Ao clicar na Notícia, o usuário deve ser redirecionado para uma página com mais informações da Notícia
 - Em alguns card de Notícia também será necessário mostrar o Autor da Notícia
 
 # Requisitos:
