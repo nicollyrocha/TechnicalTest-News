@@ -2,6 +2,8 @@
 
 O desafio consiste em consumir a api: https://newsapi.org/v2
 
+Seguir referências do Figma: https://www.figma.com/file/bpc8KjV11BWIEEnRrOpBQd/Untitled?type=design&node-id=0-1&mode=design&t=w5BjsJyv2D2Qmc0r-0
+
 Na tela Home:
 - Criar um Header do qual o usuário vai poder filtrar por Categoriasa
 - Criar um Carrossel das notícias mais lidas da semanaaa
