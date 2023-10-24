@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TechnicalTest-News/static/css/main.2c7fce93.css",
-    "main.js": "/TechnicalTest-News/static/js/main.f06e2292.js",
+    "main.js": "/TechnicalTest-News/static/js/main.ff73d401.js",
     "static/js/787.11178819.chunk.js": "/TechnicalTest-News/static/js/787.11178819.chunk.js",
     "static/media/close.svg": "/TechnicalTest-News/static/media/close.fa42be1aab4e8efbf5723fb91c00f1ec.svg",
     "index.html": "/TechnicalTest-News/index.html",
@@ -10,11 +10,11 @@
     "static/media/search.svg": "/TechnicalTest-News/static/media/search.5b6ddc8e0993d0f1309855cccba3a45b.svg",
     "static/media/arrow-left.svg": "/TechnicalTest-News/static/media/arrow-left.adb84d27967699d4bcc7b10dbc33e773.svg",
     "main.2c7fce93.css.map": "/TechnicalTest-News/static/css/main.2c7fce93.css.map",
-    "main.f06e2292.js.map": "/TechnicalTest-News/static/js/main.f06e2292.js.map",
+    "main.ff73d401.js.map": "/TechnicalTest-News/static/js/main.ff73d401.js.map",
     "787.11178819.chunk.js.map": "/TechnicalTest-News/static/js/787.11178819.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c7fce93.css",
-    "static/js/main.f06e2292.js"
+    "static/js/main.ff73d401.js"
   ]
 }
