@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/TechnicalTest-News/static/css/main.2c7fce93.css",
-    "main.js": "/TechnicalTest-News/static/js/main.ff73d401.js",
-    "static/js/787.11178819.chunk.js": "/TechnicalTest-News/static/js/787.11178819.chunk.js",
-    "static/media/close.svg": "/TechnicalTest-News/static/media/close.fa42be1aab4e8efbf5723fb91c00f1ec.svg",
-    "index.html": "/TechnicalTest-News/index.html",
-    "static/media/book-open.svg": "/TechnicalTest-News/static/media/book-open.fd59da308f0a8453bdd8a2fc4bcbfc1e.svg",
-    "static/media/search white.svg": "/TechnicalTest-News/static/media/search white.d9fb93a52b60277481db43381cf9813f.svg",
-    "static/media/search.svg": "/TechnicalTest-News/static/media/search.5b6ddc8e0993d0f1309855cccba3a45b.svg",
-    "static/media/arrow-left.svg": "/TechnicalTest-News/static/media/arrow-left.adb84d27967699d4bcc7b10dbc33e773.svg",
-    "main.2c7fce93.css.map": "/TechnicalTest-News/static/css/main.2c7fce93.css.map",
-    "main.ff73d401.js.map": "/TechnicalTest-News/static/js/main.ff73d401.js.map",
-    "787.11178819.chunk.js.map": "/TechnicalTest-News/static/js/787.11178819.chunk.js.map"
+    "main.css": "./static/css/main.2c7fce93.css",
+    "main.js": "./static/js/main.1b35f2f8.js",
+    "static/js/787.11178819.chunk.js": "./static/js/787.11178819.chunk.js",
+    "static/media/close.svg": "./static/media/close.fa42be1aab4e8efbf5723fb91c00f1ec.svg",
+    "index.html": "./index.html",
+    "static/media/book-open.svg": "./static/media/book-open.fd59da308f0a8453bdd8a2fc4bcbfc1e.svg",
+    "static/media/search white.svg": "./static/media/search white.d9fb93a52b60277481db43381cf9813f.svg",
+    "static/media/search.svg": "./static/media/search.5b6ddc8e0993d0f1309855cccba3a45b.svg",
+    "static/media/arrow-left.svg": "./static/media/arrow-left.adb84d27967699d4bcc7b10dbc33e773.svg",
+    "main.2c7fce93.css.map": "./static/css/main.2c7fce93.css.map",
+    "main.1b35f2f8.js.map": "./static/js/main.1b35f2f8.js.map",
+    "787.11178819.chunk.js.map": "./static/js/787.11178819.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c7fce93.css",
-    "static/js/main.ff73d401.js"
+    "static/js/main.1b35f2f8.js"
   ]
 }
