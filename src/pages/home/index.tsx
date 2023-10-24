@@ -20,7 +20,7 @@ export const Home = (props: {
 	const [openSearch, setOpenSearch] = useState(false);
 	return (
 		<div
-			className={`bg-grey-000 lg:bg-white flex flex-col gap-7 align-baseline w-fit`}
+			className={`bg-grey-000 lg:bg-white flex flex-col gap-7 align-baseline w-full`}
 		>
 			<Header
 				filter={props.filter}
