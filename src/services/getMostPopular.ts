@@ -10,7 +10,7 @@ export const getMostPopular = (props: {
 			.get(
 				`/top-headlines?${
 					props.filter ? `category=${props.filter}&` : ''
-				}country=us&sortBy=popularity&apiKey=fab2071ecb9d4455afc38f5c6039086c`
+				}country=us&sortBy=popularity&apiKey=9e86e971dca140efbe266096d372c74b`
 			)
 			.then((response) => props.setMostPopular(response.data.articles))
 			.catch((err) => {
